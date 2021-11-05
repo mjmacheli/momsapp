@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "721333153527",
+    "project_id": "moms-app-57f60",
+    "storage_bucket": "moms-app-57f60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721333153527:android:6462fca90b541d29102df2",
+        "android_client_info": {
+          "package_name": "com.momsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721333153527-k4hfeqi7m0u49phnig1avrpgpbtpiuhn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwC2XuRLTEyZY2PLjoyVuPeK2FIZwBXmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721333153527-k4hfeqi7m0u49phnig1avrpgpbtpiuhn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
